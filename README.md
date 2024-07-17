@@ -1,2 +1,2 @@
-# Excel
-Data analysis project using Excel
+
+Data Analysis and Project Planning using Excel
